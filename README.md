@@ -8,11 +8,16 @@ ________
 
 https://tatianabonnefoi.github.io/badbank-frontend/
 
+________
+
+https://tatianabonnefoi.github.io/badbank-frontend-standalone/
+
 # About
 
 This project was created to practice master React, React States, React Context creating a user session, etc. You can access a static page using the link above. This is a simple app where you can access an ATM like, create account, login, deposit and withdraw.
 
 This project was also created as stand alone app. You can access on github link:
+https://tatianabonnefoi.github.io/badbank-frontend-standalone/
 
 # Components:
 
